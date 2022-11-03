@@ -1,3 +1,3 @@
 # Eigen Faces Detection Method 
-## _ Using PCA _ 
+##  _Using PCA_ 
 
